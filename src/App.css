@@ -1,0 +1,42 @@
+.row {
+  margin: 0
+}
+
+body #root {
+  background: #cccccc;
+}
+
+.space_launch_year {
+  background: #7CBA01;
+  color: #333;
+  cursor: pointer;
+}
+
+.not_selected {
+  background: #C5E09B;
+}
+
+.bg-gray {
+  background: #cccccc;
+
+}
+
+.border h3 {
+  color: #754fe0;
+  font-size: 24px;
+  margin: 10px 0px;
+}
+
+.border label {
+  font-weight: 700;
+}
+
+.border p {
+
+  color: #754fe0;
+}
+
+.bg-light h4 {
+  font-weight: 600;
+
+}
